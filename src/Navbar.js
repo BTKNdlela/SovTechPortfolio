@@ -3,7 +3,7 @@ const Navbar = () => {
         <nav className = "navbar">
          <h1>My Portfolio</h1>
          <div className = "links">
-          <a href="www.google.com">GitHub</a>
+          <a href="https://github.com/BTKNdlela/SovTechPortfolio">GitHub</a>
          </div>
         </nav> 
    );
